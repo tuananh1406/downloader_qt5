@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/check.svg</file>
+        <file>icons/duyettep.png</file>
+        <file>icons/duyettep.svg</file>
+        <file>icons/taixuong.svg</file>
+    </qresource>
+</RCC>
